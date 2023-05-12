@@ -7,6 +7,8 @@ The projects in this repository are an excellent resource for beginners who are 
 
 Overall, this repository was an important resource for me as a beginner in web development, and it helped me gain the foundational knowledge and skills needed to pursue more advanced projects in the future.
 
+### [Certificate](https://www.udemy.com/certificate/UC-955403cd-1959-4264-ba24-505b8b40c66b/)
+
 ### [Credits](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 
